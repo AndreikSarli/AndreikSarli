@@ -3,7 +3,7 @@
 
 - 🌱 Estudando HTML, CSS e JavaScript
 - 👯 Estou buscando colaborar em projetos de frontend, especialmente criação de interfaces e sites responsivos
-- 🤔 Atualmente aprofundando conhecimentos em JavaScript e boas práticas de desenvolvimento Frontend.
+- 🤔 Atualmente aprofundando conhecimentos em JavaScript e boas práticas de desenvolvimento Front-end.
 - 📫 Como me contatar: andreikelsarle@gmail.com
 - 😄 Pronomes: Ele/Dele
 
