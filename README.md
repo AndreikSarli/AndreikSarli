@@ -6,6 +6,7 @@
 - 🤔 Atualmente aprofundando conhecimentos em JavaScript e boas práticas de desenvolvimento Front-End.
 - 📫 Como me contatar: andreikelsarle@gmail.com
 - 😄 Pronomes: Ele/Dele
+  
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" />
