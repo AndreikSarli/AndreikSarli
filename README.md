@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Andreik El Sarli
+# 👋 Olá! Eu sou Andreik El-Sarli
 
 💻 **Desenvolvedor Frontend | Angular · TypeScript · JavaScript**
 
@@ -8,7 +8,7 @@ Tenho experiência prática em projetos com **HTML, CSS, JavaScript, TypeScript 
 
 Gosto de entender problemas, pesquisar alternativas e testar soluções até encontrar uma forma simples e funcional de resolvê-los. Minha experiência anterior com suporte técnico também fortaleceu minha capacidade de analisar dificuldades do usuário e transformar soluções técnicas em orientações mais claras.
 
-Atualmente continuo aprofundando meus conhecimentos em **Angular e RxJS** e estou ampliando minha base em Backend com **C#, Programação Orientada a Objetos e MySQL**, com o objetivo de evoluir para desenvolvimento Full Stack.
+Atualmente aprofundo meus conhecimentos em **Angular e RxJS** e amplio minha base em **Back-end com C#, POO e MySQL**, com o objetivo de evoluir para desenvolvimento Full Stack.
 
 ---
 
