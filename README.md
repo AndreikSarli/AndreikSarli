@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Frontend | Angular · TypeScript · JavaScript**
 
-Sou formado em **Desenvolvimento de Sistemas pelo SENAI CIMATEC** e concluí a formação **Frontend pelo Programa Ford &lt;Enter&gt;, iniciativa de capacitação em tecnologia desenvolvida pela Ford Brasil em parceria com o SENAI CIMATEC e a Rede Cidadã.
+Sou formado em **Desenvolvimento de Sistemas pelo SENAI CIMATEC** e concluí a formação **Frontend** pelo Programa **Ford &lt;Enter&gt;**, iniciativa de capacitação em tecnologia desenvolvida pela Ford Brasil em parceria com o SENAI CIMATEC e a Rede Cidadã.
 
 Tenho experiência prática em projetos com **HTML, CSS, JavaScript, TypeScript e Angular**, trabalhando com interfaces responsivas, componentes, rotas, formulários, RxJS e consumo de APIs REST.
 
